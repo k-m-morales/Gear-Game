@@ -1,4 +1,5 @@
 // kelly TODO: Add a player box / health bar / status box
+// ill do it  
 
     // I envision a small-ish box in the bottom left corner of the screen where
     // an image of the player character can be shown. Down the line this will be
